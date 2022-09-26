@@ -6,8 +6,8 @@ public class Main {
         Calendar calendario = Calendar.getInstance();
         double hora = calendario.get(Calendar.HOUR_OF_DAY);
         Scanner sc = new Scanner(System.in);
-        int valor1;
-        int valor2;
+        double valor1;
+        double valor2;
 
         if(hora > 5 && hora < 12){
             System.out.println("Bom dia");
