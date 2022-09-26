@@ -1,5 +1,5 @@
-Sintaxe básica para Markdonw
-https://www.markdownguide.org/basic-syntax/
+Sintaxe básica para Markdonw.
+[Markdown guide](https://www.markdownguide.org/basic-syntax/)
 
 Link para o JDK zulu
-https://www.azul.com/downloads/?package=jdk
+[JDK Zulu](https://www.azul.com/downloads/?package=jdk)
