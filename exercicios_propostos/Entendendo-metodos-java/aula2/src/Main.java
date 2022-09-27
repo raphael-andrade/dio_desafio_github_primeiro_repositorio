@@ -12,10 +12,9 @@ public class Main {
         double comprimento = scan.nextDouble();
         System.out.println("Digite o valor da altura: ");
         double altura = scan.nextDouble();
-
-        Calculadora areaQuadrado = new Calculadora(largura);
-        Calculadora areaRetangulo = new Calculadora(largura,comprimento);
-        Calculadora areaTrapezio = new Calculadora(largura,comprimento,altura);
+        Calculadora.calculadora(largura);
+        Calculadora.calculadora(largura,comprimento);
+        Calculadora.calculadora(largura,comprimento,altura);
 
     }
 }
