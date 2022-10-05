@@ -31,5 +31,9 @@ public class Main {
                 System.out.println(temperaturas.get(count));
                 }
             }
+        for (temperatura meses:temperaturas) {
+
+            temperaturas.remove(temperaturas.get().getMes().charAt(0) = 'J');
+        }
         }
     }

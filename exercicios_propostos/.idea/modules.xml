@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Entendendo-metodos-java/aula1/aula1.iml" filepath="$PROJECT_DIR$/Entendendo-metodos-java/aula1/aula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Entendendo-metodos-java/aula2/aula2.iml" filepath="$PROJECT_DIR$/Entendendo-metodos-java/aula2/aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando-com-collections/exercicio_proposto_list/exercicio_proposto_list.iml" filepath="$PROJECT_DIR$/Trabalhando-com-collections/exercicio_proposto_list/exercicio_proposto_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabalhando-com-collections/exercicio_proposto_list2/exercicio_proposto_list2.iml" filepath="$PROJECT_DIR$/Trabalhando-com-collections/exercicio_proposto_list2/exercicio_proposto_list2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercicios_propostos.iml" filepath="$PROJECT_DIR$/.idea/exercicios_propostos.iml" />
+    </modules>
+  </component>
+</project>
