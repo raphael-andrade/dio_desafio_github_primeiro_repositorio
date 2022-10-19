@@ -1,4 +1,4 @@
-# Exercicios realizados na plataforma DIO
+# Exercicios Propostos nos cursos da plataforma DIO
 Repositório destinado para os exercícios propostos nos cursos da platforma DIO. Para compartilhar os codigos e referencias importantes que utilizei.
 
 Nesse repositorio contém:
