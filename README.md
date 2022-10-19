@@ -1,7 +1,10 @@
 # Exercicios realizados na plataforma DIO
-Repositório destinado para os cursos feitos na platforma DIO. Para que dessa forma eu possa compartilhar os codigos e referencias importantes que utilizei em meu progresso.
-Nesse repositorio vai possivel encontrar:
-- Exercicios propostos pela plataforma DIO
-- Links Utéis
-- Arquivos para estudo
+Repositório destinado para os exercícios propostos nos cursos da platforma DIO. Para compartilhar os codigos e referencias importantes que utilizei.
 
+Nesse repositorio contém:
+
+- :notebook: Exercicios propostos pela plataforma DIO
+- :computer: Links Utéis
+- :books: Arquivos para estudo
+
+Caso tenha queria compartilhar alguma informação, você pode me encontrar pelo [LinkedIn](https://www.linkedin.com/in/raphael-andrade-b75b34107/)
